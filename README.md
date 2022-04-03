@@ -3,4 +3,5 @@ The first project of this list is to build a machine learning model that predict
 
 
 Libraries (guides included): Pandas, Scikit-learn
+
 Source Code: Sentiment Analysis in Python (Text Classification)
